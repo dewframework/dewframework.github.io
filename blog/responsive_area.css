@@ -1,0 +1,52 @@
+/*Responsive Area Started*/
+
+@media only screen and (max-width:767px) {
+#outer-wrapper,#creditwam{width:420px}
+.nav > li:last-child{display:none}
+#feed-q-input{float:left;width:375px}
+#main-wrapper{float:none;margin-bottom:15px;padding:20px;width:100%}
+#sidebar-wrapper{float:none;width:100%;padding:20px}
+#headtitle{float:none;margin:15px auto;display:block;text-align:center}
+#headads,#clock{display:none}
+#selectnav1{background:none repeat scroll 0 0 #333;border:0 none;color:#FFF;margin-left:15px;padding:5px;width:390px}
+#search-form-feed{width:150px}
+#creditwam{font-size:9px}
+.botleft,.footrss-tex{float:none;text-align:center}
+.post-body img{max-width:100%}
+.selectnav{display:block}
+#menuhlng,#menuhlng1{display:none}
+#footer-wrapper{width:420px}
+#footer div.column{display:inline;float:left;margin-right:10px;width:50%}
+#footer .column .widget{float:left;line-height:1.7;margin-bottom:15px;overflow:hidden;width:340px}
+#detailfoot{width:420px}
+#sidebar-small{display:none}
+a.thumbx{float:left;height:110px;margin:0 0 5px;width:100%}
+.breadcrumbs{overflow:hidden}
+.post h2{font-size:140%;height:35px;overflow:hidden}
+#magazine-left2{width:380px}
+#magazine-right2{width:380px}
+#menuatas{padding:9px 0}
+.ikonz-social{background:none repeat scroll 0 0 transparent}
+ul#social-ikonzs{width:100%}
+ul#social-ikonzs li{border:1px solid #F5F5F5;float:left;list-style:none outside none;position:relative;text-align:left;width:50%}
+}
+@media only screen and (max-width:479px) {
+#outer-wrapper,#creditwam{width:300px}
+.ikonz-social{background:none repeat scroll 0 0 transparent}
+ul#social-ikonzs{width:100%}
+ul#social-ikonzs li{border-bottom-colors:none;border-left-colors:none;border-right-colors:none;border-top-colors:none;border-color:#F5F5F5 #F5F5F5 -moz-use-text-color;border-image:none;border-style:solid solid none;border-width:1px 1px 0;float:left;list-style:none outside none;position:relative;text-align:left;width:100%}
+.date strong{color:#FFF;float:left;font-size:12px;margin:0;padding:5px 4px 0 5px}
+.date span{float:left;font-weight:700;line-height:6px;padding-top:6px}
+#main-wrapper{float:none;margin-bottom:15px;padding:15px;width:100%}
+#magazine-left2{padding:0;width:275px}
+#slider-top{margin-bottom:20px;padding:0}
+#magazine-right2{padding:0;width:275px}
+#feed-q-input{width:260px}
+#footer-wrapper{display:none}
+#selectnav1{width:270px}
+#footer div.column{width:40%}
+#home-detail{margin-top:20px}
+#detailfoot{width:300px}
+.post h2{font-size:140%;height:71px;overflow:hidden}
+a.thumbx{float:left;height:110px;margin:0 0 5px;width:100%}
+}
